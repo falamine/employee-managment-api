@@ -1,0 +1,11 @@
+{
+  
+  "responseCode": 0,
+  "responseMessage": "string",
+  "data": {
+    "id": "string",
+    "fullName": "string",
+    "email": "string",
+    "mobileNumber": "string"
+  }
+}
